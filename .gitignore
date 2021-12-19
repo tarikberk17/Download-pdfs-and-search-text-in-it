@@ -1,0 +1,6 @@
+node_modules/
+kisiler.csv
+links.json
+test.js
+pdfs/*
+results.csv
